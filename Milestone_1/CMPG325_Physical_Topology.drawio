@@ -50,6 +50,7 @@
         <mxCell id="cXXCXrYI-biLi9-e6hP9-13" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.simultilayer_switch;" value="" vertex="1">
           <mxGeometry height="57.99999999999999" width="57.99999999999999" x="162" y="316" as="geometry" />
         </mxCell>
+
         <mxCell id="cXXCXrYI-biLi9-e6hP9-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SW2-ACCESS-USERS" vertex="1">
           <mxGeometry height="30" width="60" x="220" y="330" as="geometry" />
         </mxCell>
