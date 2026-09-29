@@ -10,7 +10,7 @@ The network implementation is based on the approved Milestone 1 physical topolog
 - [x] Physical network cabling completed
 - [x] VLAN configuration
 - [x] Access and trunk port configuration
-- [ ] Inter-VLAN routing
+- [x] Inter-VLAN routing
 - [ ] Static IP addressing
 - [ ] DHCP configuration
 - [ ] Public wireless configuration
