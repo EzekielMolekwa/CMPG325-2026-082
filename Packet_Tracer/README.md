@@ -11,7 +11,7 @@ The network implementation is based on the approved Milestone 1 physical topolog
 - [x] VLAN configuration
 - [x] Access and trunk port configuration
 - [x] Inter-VLAN routing
-- [ ] Static IP addressing
+- [x] Static IP addressing
 - [x] DHCP configuration
 - [ ] Public wireless configuration
 - [ ] ACL traffic-filtering policy
