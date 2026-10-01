@@ -17,4 +17,4 @@ The network implementation is based on the approved Milestone 1 physical topolog
 - [x] ACL traffic-filtering policy
 - [x] Connectivity testing
 - [x] ACL permit and deny verification
-- [ ] Final Packet Tracer implementation
+- [x] Final Packet Tracer implementation
