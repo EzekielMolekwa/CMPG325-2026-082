@@ -39,7 +39,7 @@ The design also considers Change Request CR6, which requires provision for a fut
 - [x] Perform Network Connectivity Tests
 - [x] Verify ACL Operation
 - [x] Record Testing Evidence
-- [ ] Document Troubleshooting Activities
+- [x] Document Troubleshooting Activities
 
 ### Final Project Submission
 - [ ] Final Cisco Packet Tracer File
