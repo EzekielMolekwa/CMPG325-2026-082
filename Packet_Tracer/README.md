@@ -13,7 +13,7 @@ The network implementation is based on the approved Milestone 1 physical topolog
 - [x] Inter-VLAN routing
 - [x] Static IP addressing
 - [x] DHCP configuration
-- [ ] Public wireless configuration
+- [x] Public wireless configuration
 - [ ] ACL traffic-filtering policy
 - [ ] Connectivity testing
 - [ ] ACL permit and deny verification
