@@ -42,10 +42,10 @@ The design also considers Change Request CR6, which requires provision for a fut
 - [x] Document Troubleshooting Activities
 
 ### Final Project Submission
-- [ ] Final Cisco Packet Tracer File
-- [ ] Final Technical Documentation
-- [ ] Complete Network Testing Evidence
-- [ ] Completed GitHub Project Portfolio
+- [x] Final Cisco Packet Tracer File
+- [x] Final Technical Documentation
+- [x] Complete Network Testing Evidence
+- [x] Completed GitHub Project Portfolio
 - [ ] Project Demonstration Video
 
 ## Repository Structure
@@ -57,11 +57,12 @@ The design also considers Change Request CR6, which requires provision for a fut
 - `Screenshots/` – Contains screenshots collected during network implementation, configuration and testing.
 
 ## Current Status
-
 Milestone 1 has been completed, including the client requirements analysis, physical topology, logical topology and IP addressing plan.
 
-Milestone 2 implementation is in progress. The Cisco Packet Tracer network has been built and configured with VLAN segmentation, inter-VLAN routing, static addressing, DHCP services, public wireless access and ACL-based traffic filtering. Connectivity and ACL testing has also been performed, with evidence collected in the repository.
+Milestone 2 implementation and testing have been completed. The Cisco Packet Tracer network has been configured with VLAN segmentation, inter-VLAN routing, static addressing, DHCP services, public wireless access and ACL-based traffic filtering.
 
-The ACL traffic-filtering policy was tested using the public wireless network. Traffic from the public Wi-Fi network to protected internal VLANs was denied, while permitted traffic to an external routed destination was successfully allowed. The corresponding configuration and testing evidence is stored in the repository.
+The assigned ACL traffic-filtering challenge was implemented and tested on the public wireless network. Traffic from the public Wi-Fi network to protected internal VLANs is denied, while permitted traffic to an external routed destination is allowed. Connectivity tests and ACL counters were used to verify the policy.
 
-Further final verification, documentation and submission preparation remain before the project is considered complete.
+Final verification, troubleshooting documentation and testing evidence have been completed. The Packet Tracer project, GitHub portfolio of evidence and technical report have been prepared for final evaluation.
+
+The remaining requirement is the individual 15–20 minute INSET video demonstration, including the explanation and technical defence of the network design and implementation.
